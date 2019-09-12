@@ -1,7 +1,7 @@
 package tdl.sometest.ext;
 
-import tdl.sometest.SomeObject;
-import tdl.sometest.handlerinterface.ObjectHandlerModule;
+import tdl.sometest.export.SomeObject;
+import tdl.sometest.export.ObjectHandlerModule;
 
 public class SomeModule implements ObjectHandlerModule {
     @Override
