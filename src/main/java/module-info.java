@@ -1,3 +1,6 @@
+import tdl.sometest.export.ObjectHandlerModule;
+
 module ObjectHandlerIn{
-    uses tdl.sometest.handlerinterface.ObjectHandlerModule;
+    uses ObjectHandlerModule;
+    exports tdl.sometest.export;
 }
