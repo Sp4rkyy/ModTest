@@ -6,7 +6,7 @@ public class SomeObject {
     private int id;
     private String name;
 
-    SomeObject(String name){
+    public SomeObject(String name){
         instances++;
         this.id = instances;
         this.name = name;
