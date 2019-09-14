@@ -1,3 +1,7 @@
 rootProject.name = 'ModTest'
-include 'SomeModule'
+include 'eventbus'
+include 'namegenerator'
+include 'eventbus'
+include 'runtime'
+include 'product'
 
