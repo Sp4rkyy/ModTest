@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ModTest.iml" filepath="$PROJECT_DIR$/.idea/modules/ModTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eventbus/ModTest.eventbus.iml" filepath="$PROJECT_DIR$/.idea/modules/eventbus/ModTest.eventbus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eventbus/ModTest.eventbus.main.iml" filepath="$PROJECT_DIR$/.idea/modules/eventbus/ModTest.eventbus.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eventbus/ModTest.eventbus.test.iml" filepath="$PROJECT_DIR$/.idea/modules/eventbus/ModTest.eventbus.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ModTest.main.iml" filepath="$PROJECT_DIR$/.idea/modules/ModTest.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/namegenerator/ModTest.namegenerator.iml" filepath="$PROJECT_DIR$/.idea/modules/namegenerator/ModTest.namegenerator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/namegenerator/ModTest.namegenerator.main.iml" filepath="$PROJECT_DIR$/.idea/modules/namegenerator/ModTest.namegenerator.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/namegenerator/ModTest.namegenerator.test.iml" filepath="$PROJECT_DIR$/.idea/modules/namegenerator/ModTest.namegenerator.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/product/ModTest.product.iml" filepath="$PROJECT_DIR$/.idea/modules/product/ModTest.product.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/product/ModTest.product.main.iml" filepath="$PROJECT_DIR$/.idea/modules/product/ModTest.product.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/product/ModTest.product.test.iml" filepath="$PROJECT_DIR$/.idea/modules/product/ModTest.product.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/runtime/ModTest.runtime.iml" filepath="$PROJECT_DIR$/.idea/modules/runtime/ModTest.runtime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/runtime/ModTest.runtime.main.iml" filepath="$PROJECT_DIR$/.idea/modules/runtime/ModTest.runtime.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/runtime/ModTest.runtime.test.iml" filepath="$PROJECT_DIR$/.idea/modules/runtime/ModTest.runtime.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ModTest.test.iml" filepath="$PROJECT_DIR$/.idea/modules/ModTest.test.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="ModTest.evenchain.main" target="1.8" />
+      <module name="ModTest.evenchain.test" target="1.8" />
+      <module name="ModTest.eventbus.main" target="11" />
+      <module name="ModTest.eventbus.test" target="11" />
+      <module name="ModTest.eventqueue.main" target="11" />
+      <module name="ModTest.eventqueue.test" target="11" />
+      <module name="ModTest.main" target="11" />
+      <module name="ModTest.main.main" target="1.8" />
+      <module name="ModTest.main.test" target="1.8" />
+      <module name="ModTest.namegenerator.main" target="11" />
+      <module name="ModTest.namegenerator.test" target="11" />
+      <module name="ModTest.objecthandler.main" target="11" />
+      <module name="ModTest.objecthandler.test" target="11" />
+      <module name="ModTest.product.main" target="11" />
+      <module name="ModTest.product.test" target="11" />
+      <module name="ModTest.runtime" target="11" />
+      <module name="ModTest.runtime.main" target="11" />
+      <module name="ModTest.runtime.test" target="11" />
+      <module name="ModTest.SomeModule.main" target="11" />
+      <module name="ModTest.SomeModule.test" target="11" />
+      <module name="ModTest.test" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
